@@ -6,11 +6,11 @@ This is a personal project that came from A-Level computer science NEA that I wa
 
 ## Roadmap
 ### IOS
-[ ] Temp
+- [ ] Temp
 ### WEB
-[ ] Yet to be implimented
+- [ ] Yet to be implimented
 ### Android
-[ ] Yet to be implimented
+- [ ] Yet to be implimented
 ## Appendix
 
 The app for IOS isnt published yet due to costs and being a solo developer on this I can't guarantee it ever will, however I have plans to make a android version and a web version that should be usuable
