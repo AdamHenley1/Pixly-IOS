@@ -6,7 +6,32 @@ This is a personal project that came from A-Level computer science NEA that I wa
 
 ## Roadmap
 ### IOS
-- [ ] Temp
+- [ ] Login Page
+  - [X] Front end
+    - [X]  Easy to use and read  
+    - [X] Colours aren't to severe in contrast and not over bearing
+  - [ ] Back end (once a server has been aquired)
+    - [ ] Call to the server and see if the username has a match and if so compare passwords
+- [ ] Sign up page
+  - [X] Front end
+    - [X] Easy to use and read  
+    - [X] Colours aren't to severe in contrast and not over bearing 
+  - [ ] Back end (once a server has been aquired)
+    - [ ] call to the server to see if username is available
+    - [ ] Securely store login details
+- [ ] Home page
+  - [ ] Grid of photos of artists and profiles you follow
+- [ ] Settings
+  - [ ] Themes settings that gives the user full customisation on the colours they want Pixly to look like (with presets)
+  - [X] Signout button
+  - [ ] Account Deletion
+- [ ] profile page
+  - [ ] Can add a profile picture
+  - [ ] Add photos
+  - [ ] See photos in a grid
+    - [ ] ability to full screen images to see them more clearly  
+- [ ] search page
+  - [ ] Grid of photos based on tagged searches you and similar people have 
 ### WEB
 - [ ] Yet to be implimented
 ### Android
