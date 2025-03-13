@@ -5,7 +5,7 @@ This is a personal project that came from A-Level computer science NEA that I wa
 
 
 ## Roadmap
-### IOS
+### [IOS](https://github.com/AdamHenley1/Pixly-IOS)
 - [ ] Login Page
   - [X] Front end
     - [X]  Easy to use and read  
@@ -32,9 +32,9 @@ This is a personal project that came from A-Level computer science NEA that I wa
     - [ ] ability to full screen images to see them more clearly  
 - [ ] search page
   - [ ] Grid of photos based on tagged searches you and similar people have 
-### WEB
+### [WEB](https://github.com/AdamHenley1/Pixly-Web)
 - [ ] Yet to be implimented
-### Android
+### [Android](https://github.com/AdamHenley1/Pixly-Android)
 - [ ] Yet to be implimented
 ## Appendix
 
