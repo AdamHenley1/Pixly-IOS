@@ -1,17 +1,3 @@
-//
-//  Loginbackground.swift
-//  Portfolio app
-//
-//  Created by Adam Mason on 23/01/2025.
-//
-
-//
-//  LogoAnimation.swift
-//  Portfolio app
-//
-//  Created by Adam Mason on 22/01/2025.
-//
-
 import SwiftUI
 
 struct LoginBackground: View {
